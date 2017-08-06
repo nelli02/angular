@@ -1,1 +1,1 @@
-# angular
+# skeleton project files for angular
